@@ -1,0 +1,17 @@
+{
+    "name": "admin/rosemalejohn-scraper",
+    "description": "Clone post from a certain website and save to your website as a post.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Rosemale-John II C. Villacorta",
+            "email": "rosemalejohn@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RosemaleJohnScraper\\": "app/"
+        }
+    }
+}
